@@ -1,1 +1,1 @@
-# machine-learning-zoomcamp-practice
+# machine-learning-zoomcamp-homework
